@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 992px) {
+    div#conteudo{
+        width: 500px;
+    }
+
+    div#imagem{
+        width: 100%;
+        background-size: cover;
+        margin-bottom: 20px;
+    }
+
+    div#valor > img {
+        width: 90px;
+    }
+}
